@@ -6,8 +6,7 @@
     },
     "xs": {
       "value": "{spacing.base}",
-      "type": "spacing",
-      "description": "The base token for spacing"
+      "type": "spacing"
     },
     "sm": {
       "value": "{spacing.xs} + {spacing.base}",
