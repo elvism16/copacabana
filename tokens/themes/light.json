@@ -133,6 +133,14 @@
         "value": "{colors.black}",
         "type": "color"
       },
+      "on-primary": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
       "on-accent": {
         "value": "{colors.white}",
         "type": "color"
