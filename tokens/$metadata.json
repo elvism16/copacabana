@@ -9,6 +9,7 @@
     "themes/dark",
     "themes/light",
     "semantic/theme",
-    "semantic/typography"
+    "semantic/typography",
+    "base/borders"
   ]
 }
