@@ -137,6 +137,14 @@
         "value": "{colors.white}",
         "type": "color"
       },
+      "on-primary": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
       "muted": {
         "value": "{colors.grey.200}",
         "type": "color"
