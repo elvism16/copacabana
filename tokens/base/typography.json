@@ -71,63 +71,63 @@
       "type": "scale"
     },
     "xxs": {
-      "value": "roundTo({fontSize.xs} / {fontSize.scale}, 0)",
+      "value": "0.563rem",
       "type": "fontSizes"
     },
     "xs": {
-      "value": "roundTo({fontSize.sm} / {fontSize.scale}, 0)",
+      "value": "0.688rem",
       "type": "fontSizes"
     },
     "sm": {
-      "value": "roundTo({fontSize.base} / {fontSize.scale}, 0)",
+      "value": "0.75rem",
       "type": "fontSizes"
     },
     "md": {
-      "value": "{fontSize.base}",
+      "value": "1rem",
       "type": "fontSizes"
     },
     "lg": {
-      "value": "roundTo({fontSize.base} * {fontSize.scale}, 0)",
+      "value": "1.188rem",
       "type": "fontSizes"
     },
     "xl": {
-      "value": "roundTo({fontSize.lg} * {fontSize.scale}, 0)",
+      "value": "1.438rem",
       "type": "fontSizes"
     },
     "2xl": {
-      "value": "roundTo({fontSize.xl} * {fontSize.scale}, 0)",
+      "value": "1.75rem",
       "type": "fontSizes"
     },
     "3xl": {
-      "value": "roundTo({fontSize.2xl} * {fontSize.scale}, 0)",
+      "value": "2.125rem",
       "type": "fontSizes"
     },
     "4xl": {
-      "value": "roundTo({fontSize.3xl} * {fontSize.scale}, 0)",
+      "value": "2.563rem",
       "type": "fontSizes"
     },
     "5xl": {
-      "value": "roundTo({fontSize.4xl} * {fontSize.scale}, 0)",
+      "value": "3.063rem",
       "type": "fontSizes"
     },
     "6xl": {
-      "value": "roundTo({fontSize.5xl} * {fontSize.scale}, 0)",
+      "value": "3.688rem",
       "type": "fontSizes"
     },
     "7xl": {
-      "value": "roundTo({fontSize.6xl} * {fontSize.scale}, 0)",
+      "value": "4.438rem",
       "type": "fontSizes"
     },
     "8xl": {
-      "value": "roundTo({fontSize.7xl} * {fontSize.scale}, 0)",
+      "value": "5.313rem",
       "type": "fontSizes"
     },
     "9xl": {
-      "value": "roundTo({fontSize.8xl} * {fontSize.scale}, 0)",
+      "value": "6.375rem",
       "type": "fontSizes"
     },
     "10xl": {
-      "value": "roundTo({fontSize.9xl} * {fontSize.scale}, 0)",
+      "value": "7.625rem",
       "type": "fontSizes"
     }
   },
