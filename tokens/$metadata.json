@@ -10,6 +10,8 @@
     "themes/light",
     "semantic/theme",
     "semantic/typography",
-    "base/borders"
+    "base/borders",
+    "base/zindex",
+    "base/breakpoints"
   ]
 }
