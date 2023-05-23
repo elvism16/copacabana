@@ -10,9 +10,7 @@
       "semantic/theme": "enabled",
       "semantic/typography": "enabled",
       "base/dimension": "source",
-      "themes/high contrast": "enabled",
-      "base/zindex": "disabled",
-      "base/breakpoints": "disabled"
+      "themes/high contrast": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,9 +25,7 @@
       "semantic/theme": "enabled",
       "semantic/typography": "enabled",
       "base/dimension": "source",
-      "themes/light": "enabled",
-      "base/zindex": "disabled",
-      "base/breakpoints": "disabled"
+      "themes/light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -44,9 +40,7 @@
       "semantic/theme": "enabled",
       "semantic/typography": "enabled",
       "base/dimension": "source",
-      "themes/dark": "enabled",
-      "base/zindex": "disabled",
-      "base/breakpoints": "disabled"
+      "themes/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
