@@ -112,7 +112,7 @@
         "type": "typography"
       }
     },
-    "Headline 1": {
+    "HeadlineXL": {
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.headlines}",
@@ -140,7 +140,7 @@
         "type": "typography"
       }
     },
-    "Headline 2": {
+    "HeadlineLG": {
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.headlines}",
@@ -153,7 +153,9 @@
           "textDecoration": "{textDecoration.none}"
         },
         "type": "typography"
-      },
+      }
+    },
+    "Headline 2": {
       "Regular": {
         "value": {
           "fontFamily": "{fontFamilies.headlines}",
