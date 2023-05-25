@@ -209,7 +209,9 @@
           "textDecoration": "{textDecoration.none}"
         },
         "type": "typography"
-      },
+      }
+    },
+    "Headline 4": {
       "Regular": {
         "value": {
           "fontFamily": "{fontFamilies.headlines}",
@@ -224,7 +226,7 @@
         "type": "typography"
       }
     },
-    "HeadlineXS": {
+    "Headline 5": {
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.headlines}",
