@@ -5,13 +5,13 @@
     "base/shadows",
     "base/dimension",
     "base/typography",
+    "base/borders",
+    "base/zindex",
+    "base/breakpoints",
     "themes/high contrast",
     "themes/dark",
     "themes/light",
     "semantic/theme",
-    "semantic/typography",
-    "base/borders",
-    "base/zindex",
-    "base/breakpoints"
+    "semantic/typography"
   ]
 }
