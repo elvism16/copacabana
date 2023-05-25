@@ -133,11 +133,11 @@
         "value": "{colors.black}",
         "type": "color"
       },
-      "on-primary": {
+      "on-primaryDark": {
         "value": "{colors.black}",
         "type": "color"
       },
-      "on-secondary": {
+      "on-secondaryDark": {
         "value": "{colors.black}",
         "type": "color"
       },
@@ -159,6 +159,14 @@
       },
       "disabled": {
         "value": "{colors.grey.400}",
+        "type": "color"
+      },
+      "on-primaryLight": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "on-secondaryLight": {
+        "value": "{colors.white}",
         "type": "color"
       }
     },
