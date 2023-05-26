@@ -2,8 +2,7 @@
   "radii": {
     "base": {
       "value": "6",
-      "type": "other",
-      "description": "the base for our radii tokens"
+      "type": "other"
     },
     "xs": {
       "value": "{radii.base} / 2",
