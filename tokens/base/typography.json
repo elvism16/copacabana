@@ -42,21 +42,21 @@
   "fontWeights": {
     "headlines": {
       "bold": {
-        "value": "Bold",
+        "value": "700",
         "type": "fontWeights"
       },
       "regular": {
-        "value": "Regular",
+        "value": "400",
         "type": "fontWeights"
       }
     },
     "body": {
       "bold": {
-        "value": "Bold",
+        "value": "700",
         "type": "fontWeights"
       },
       "regular": {
-        "value": "Regular",
+        "value": "400",
         "type": "fontWeights"
       }
     }
