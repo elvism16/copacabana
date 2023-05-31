@@ -52,5 +52,27 @@
         "type": "dimension"
       }
     }
+  },
+  "boxShadow": {
+    "lg": {
+      "value": "0px 8px 8px 0px rgba(48,49,51,0.08)",
+      "type": "other"
+    },
+    "xl": {
+      "value": "0px 16px 50px 0px rgba(48,49,51,0.08)",
+      "type": "other"
+    },
+    "md": {
+      "value": "0px 4px 4px 0px rgba(48,49,51,0.08)",
+      "type": "other"
+    },
+    "sm": {
+      "value": "0px 2px 2px 0px rgba(48,49,51,0.08)",
+      "type": "other"
+    },
+    "xs": {
+      "value": "0px 1.5px 1px 0px rgba(48,49,51,0.08)",
+      "type": "other"
+    }
   }
 }

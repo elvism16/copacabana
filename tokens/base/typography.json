@@ -1,11 +1,11 @@
 {
   "fontFamilies": {
     "headlines": {
-      "value": "{fontFamilies.body}",
+      "value": "Lora",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Inter",
+      "value": "Mona Sans",
       "type": "fontFamilies"
     }
   },
