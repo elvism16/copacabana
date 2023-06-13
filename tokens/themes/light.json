@@ -133,15 +133,15 @@
         "value": "{colors.black}",
         "type": "color"
       },
-      "on-primaryDark": {
+      "onPrimaryDark": {
         "value": "{colors.cyan.700}",
         "type": "color"
       },
-      "on-secondaryDark": {
+      "onSecondaryDark": {
         "value": "{colors.emerald.700}",
         "type": "color"
       },
-      "on-accent": {
+      "onAccent": {
         "value": "{colors.white}",
         "type": "color"
       },
@@ -153,7 +153,7 @@
         "value": "{colors.grey.500}",
         "type": "color"
       },
-      "on-disabled": {
+      "onDisabled": {
         "value": "{colors.grey.600}",
         "type": "color"
       },
@@ -161,11 +161,11 @@
         "value": "{colors.grey.400}",
         "type": "color"
       },
-      "on-primaryLight": {
+      "onPrimaryLight": {
         "value": "{colors.white}",
         "type": "color"
       },
-      "on-secondaryLight": {
+      "onSecondaryLight": {
         "value": "{colors.white}",
         "type": "color"
       }
