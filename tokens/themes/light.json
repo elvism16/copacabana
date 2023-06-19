@@ -137,11 +137,11 @@
         "value": "{colors.cyan.700}",
         "type": "color"
       },
-      "onSecondaryDark": {
+      "on-secondaryDark": {
         "value": "{colors.emerald.700}",
         "type": "color"
       },
-      "onAccent": {
+      "on-accent": {
         "value": "{colors.white}",
         "type": "color"
       },
@@ -187,7 +187,7 @@
         "value": "{colors.yellow.500}",
         "type": "color"
       },
-      "onWarning": {
+      "on-warning": {
         "value": "{colors.black}",
         "type": "color"
       }
@@ -209,7 +209,7 @@
         "value": "{colors.blue.500}",
         "type": "color"
       },
-      "onInfo": {
+      "on-info": {
         "value": "{colors.white}",
         "type": "color"
       }
@@ -231,7 +231,7 @@
         "value": "{colors.red.500}",
         "type": "color"
       },
-      "onError": {
+      "on-error": {
         "value": "{colors.white}",
         "type": "color"
       }
@@ -253,7 +253,7 @@
         "value": "{colors.green.500}",
         "type": "color"
       },
-      "onSuccess": {
+      "on-success": {
         "value": "{colors.white}",
         "type": "color"
       }
