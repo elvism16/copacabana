@@ -8,6 +8,7 @@
     "base/borders",
     "base/zindex",
     "base/breakpoints",
+    "base/motion",
     "themes/high contrast",
     "themes/dark",
     "themes/light",

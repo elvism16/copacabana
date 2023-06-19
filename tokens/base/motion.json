@@ -1,0 +1,62 @@
+{
+  "motion": {
+    "duration": {
+      "100": {
+        "value": "100ms",
+        "type": "unknown"
+      },
+      "200": {
+        "value": "200ms",
+        "type": "unknown"
+      },
+      "400": {
+        "value": "400ms",
+        "type": "unknown"
+      },
+      "600": {
+        "value": "600ms",
+        "type": "unknown"
+      },
+      "2000": {
+        "value": "2000ms",
+        "type": "unknown"
+      }
+    },
+    "timing": {
+      "linear": {
+        "value": "linear",
+        "type": "unknown"
+      },
+      "ease": {
+        "value": "ease",
+        "type": "unknown"
+      },
+      "easeIn": {
+        "value": "ease-in",
+        "type": "unknown"
+      },
+      "easeOut": {
+        "value": "ease-out",
+        "type": "unknown"
+      },
+      "easeInOut": {
+        "value": "ease-in-out",
+        "type": "unknown"
+      }
+    },
+    "delay": {
+      "100": {
+        "value": "1s",
+        "type": "unknown"
+      },
+      "200": {
+        "value": "2s",
+        "type": "unknown"
+      },
+      "500": {
+        "value": "5s",
+        "type": "unknown"
+      }
+    }
+  }
+}
