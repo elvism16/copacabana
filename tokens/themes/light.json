@@ -133,15 +133,19 @@
         "value": "{colors.black}",
         "type": "color"
       },
+      "onWarning": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
       "onPrimaryDark": {
         "value": "{colors.cyan.700}",
         "type": "color"
       },
-      "on-secondaryDark": {
+      "onSecondaryDark": {
         "value": "{colors.emerald.700}",
         "type": "color"
       },
-      "on-accent": {
+      "onAccent": {
         "value": "{colors.white}",
         "type": "color"
       },
@@ -168,11 +172,23 @@
       "onSecondaryLight": {
         "value": "{colors.white}",
         "type": "color"
+      },
+      "onInfo": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "onError": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "onSuccess": {
+        "value": "{colors.white}",
+        "type": "color"
       }
     },
     "warning": {
       "default": {
-        "value": "{colors.yellow.600}",
+        "value": "{colors.yellow.500}",
         "type": "color"
       },
       "subtle": {
@@ -184,17 +200,13 @@
         "type": "color"
       },
       "emphasis": {
-        "value": "{colors.yellow.500}",
-        "type": "color"
-      },
-      "on-warning": {
-        "value": "{colors.black}",
+        "value": "{colors.yellow.600}",
         "type": "color"
       }
     },
     "info": {
       "default": {
-        "value": "{colors.blue.600}",
+        "value": "{colors.blue.500}",
         "type": "color"
       },
       "subtle": {
@@ -206,17 +218,13 @@
         "type": "color"
       },
       "emphasis": {
-        "value": "{colors.blue.500}",
-        "type": "color"
-      },
-      "on-info": {
-        "value": "{colors.white}",
+        "value": "{colors.blue.600}",
         "type": "color"
       }
     },
     "error": {
       "default": {
-        "value": "{colors.red.600}",
+        "value": "{colors.red.500}",
         "type": "color"
       },
       "subtle": {
@@ -228,17 +236,13 @@
         "type": "color"
       },
       "emphasis": {
-        "value": "{colors.red.500}",
-        "type": "color"
-      },
-      "on-error": {
-        "value": "{colors.white}",
+        "value": "{colors.red.600}",
         "type": "color"
       }
     },
     "success": {
       "default": {
-        "value": "{colors.green.600}",
+        "value": "{colors.green.500}",
         "type": "color"
       },
       "subtle": {
@@ -250,11 +254,7 @@
         "type": "color"
       },
       "emphasis": {
-        "value": "{colors.green.500}",
-        "type": "color"
-      },
-      "on-success": {
-        "value": "{colors.white}",
+        "value": "{colors.green.600}",
         "type": "color"
       }
     },
