@@ -149,6 +149,10 @@
         "value": "{colors.white}",
         "type": "color"
       },
+      "onAccentDark": {
+        "value": "{colors.blue.600}",
+        "type": "color"
+      },
       "muted": {
         "value": "{colors.grey.700}",
         "type": "color"
