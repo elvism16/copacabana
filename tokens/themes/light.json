@@ -60,6 +60,10 @@
       "canvas": {
         "value": "{colors.grey.100}",
         "type": "color"
+      },
+      "inverted": {
+        "value": "{colors.black}",
+        "type": "color"
       }
     },
     "accent": {
