@@ -371,10 +371,10 @@
           "fontWeight": "{fontWeights.body.regular}",
           "lineHeight": "{lineHeights.body.default}",
           "fontSize": "{fontSize.sm}",
-          "letterSpacing": "{letterSpacing.captions}",
+          "letterSpacing": "{letterSpacing.body}",
           "paragraphSpacing": "{paragraphSpacing.default}",
-          "textCase": "{textCase.captions}",
-          "textDecoration": "{textDecoration.captions}"
+          "textDecoration": "{textDecoration.none}",
+          "textCase": "{textCase.none}"
         },
         "type": "typography"
       }
