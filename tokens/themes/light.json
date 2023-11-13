@@ -299,6 +299,30 @@
         "disabled": {
           "value": "{colors.grey.200}",
           "type": "color"
+        },
+        "primary": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "primaryEmphasis": {
+          "value": "{theme.primary.emphasis}",
+          "type": "color"
+        },
+        "primarySubtle": {
+          "value": "{theme.primary.subtle}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{theme.secondary.default}",
+          "type": "color"
+        },
+        "secondaryEmphasis": {
+          "value": "{theme.secondary.emphasis}",
+          "type": "color"
+        },
+        "secondarySubtle": {
+          "value": "{theme.secondary.subtle}",
+          "type": "color"
         }
       },
       "fg": {
