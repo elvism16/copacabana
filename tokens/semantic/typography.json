@@ -548,6 +548,30 @@
         },
         "type": "typography"
       }
+    },
+    "Table": {
+      "Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.body}",
+          "fontWeight": "{fontWeights.body.bold}",
+          "fontSize": "{fontSize.sm}",
+          "lineHeight": "{lineHeights.body.default}",
+          "letterSpacing": "{letterSpacing.body}",
+          "paragraphSpacing": "{paragraphSpacing.default}"
+        },
+        "type": "typography"
+      },
+      "Regular": {
+        "value": {
+          "fontFamily": "{fontFamilies.body}",
+          "fontWeight": "{fontWeights.body.regular}",
+          "fontSize": "{fontSize.sm}",
+          "lineHeight": "{lineHeights.body.default}",
+          "paragraphSpacing": "{paragraphSpacing.default}",
+          "letterSpacing": "{letterSpacing.body}"
+        },
+        "type": "typography"
+      }
     }
   },
   "textCase": {

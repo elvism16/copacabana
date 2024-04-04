@@ -129,6 +129,14 @@
     "10xl": {
       "value": "7.625rem",
       "type": "fontSizes"
+    },
+    "10xlMax": {
+      "value": "7.625rem",
+      "type": "fontSizes"
+    },
+    "10xlMin": {
+      "value": "4.6rem",
+      "type": "fontSizes"
     }
   },
   "letterSpacing": {
@@ -153,6 +161,34 @@
     "default": {
       "value": "0",
       "type": "paragraphSpacing"
+    }
+  },
+  "viewport": {
+    "min": {
+      "value": "360",
+      "type": "sizing"
+    },
+    "max": {
+      "value": "1920",
+      "type": "sizing"
+    }
+  },
+  "fs": {
+    "m10": {
+      "value": "( {fs.10xl-Max} - {fs.10xl-Min} ) / ( {viewport.max} - {viewport.min} )",
+      "type": "sizing"
+    },
+    "10xl-Max": {
+      "value": "19",
+      "type": "sizing"
+    },
+    "10xl-Min": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "y10": {
+      "value": "{fs.10xl-Min} - {fs.m10} * {viewport.min}",
+      "type": "sizing"
     }
   }
 }
