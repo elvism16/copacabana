@@ -87,7 +87,8 @@
       "semantic/theme": "enabled",
       "semantic/typography": "enabled",
       "base/dimension": "source",
-      "themes/light": "enabled"
+      "themes/light": "enabled",
+      "base/borders": "source"
     },
     "$figmaStyleReferences": {
       "theme.fg.opacity.1": "S:b198282bc2f0b3243abca8a737b8557676cf81f3,",

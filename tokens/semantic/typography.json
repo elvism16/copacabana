@@ -554,7 +554,7 @@
         "value": {
           "fontFamily": "{fontFamilies.body}",
           "fontWeight": "{fontWeights.body.bold}",
-          "fontSize": "{fontSize.sm}",
+          "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeights.body.default}",
           "letterSpacing": "{letterSpacing.body}",
           "paragraphSpacing": "{paragraphSpacing.default}"
@@ -565,7 +565,7 @@
         "value": {
           "fontFamily": "{fontFamilies.body}",
           "fontWeight": "{fontWeights.body.regular}",
-          "fontSize": "{fontSize.sm}",
+          "fontSize": "{fontSize.md}",
           "lineHeight": "{lineHeights.body.default}",
           "paragraphSpacing": "{paragraphSpacing.default}",
           "letterSpacing": "{letterSpacing.body}"
